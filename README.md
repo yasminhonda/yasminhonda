@@ -3,10 +3,10 @@
   
 - 🌱 I’m currently learning Html5, CSS3, JavaScript and TypeScript
 
-<div align="center" float="left">
+<div align="center">
   <a href="https://github.com/yasminhonda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminhonda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhonda&layout=compact&langs_count=7&theme=radical"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=yasminhonda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminhonda&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
 ##
