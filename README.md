@@ -1,4 +1,4 @@
-###  YoHaro! Eu sou a Yasmin Honda🌸 <img align="right" alt="yas-pic" height="95" src="https://user-images.githubusercontent.com/92547909/137399733-0c13733c-5351-4b21-a7de-8763d3cb1ea4.gif">
+###  <h1> YoHaro! Eu sou a Yasmin Honda🌸 <img align="right" alt="yas-pic" height="95" src="https://user-images.githubusercontent.com/92547909/137399733-0c13733c-5351-4b21-a7de-8763d3cb1ea4.gif"> </h1>
   
 - 🌱 I’m currently learning Html5, CSS3, JavaScript and TypeScript
 
